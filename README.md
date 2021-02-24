@@ -14,6 +14,6 @@ size of both bacteria (for each bacteria the graph is in the corresponding color
 
 
 # Setup
- Download the .java files and move them into your projects source directory. After that run the main method.
+ Download the folder app and move it into your projects source directory. After that run the main method in App.java.
  
  

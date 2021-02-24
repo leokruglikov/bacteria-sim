@@ -14,6 +14,6 @@ size of both bacteria (for each bacteria the graph is in the corresponding color
 
 
 # Setup
- Download the folder app and move it into your projects source directory. After that run the main method in App.java.
+ Download the folder app and move it into your projects source directory. The project also uses a C++ based library sfml that was rewritten in java as jsfml. Download the jsfml.jar file and add it as a library to your project. After that run the main method in App.java.
  
  

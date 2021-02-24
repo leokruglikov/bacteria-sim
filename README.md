@@ -1,6 +1,6 @@
 Bacteria simulation
 ------------
-By emilssipols11
+By emilssipols11 and leokruglikov
 
 # Description
 This is a project which attempts to simulate the life of two types of bacteria. There is food spawning at random locations and there exist two types of bacteria: one of them 
